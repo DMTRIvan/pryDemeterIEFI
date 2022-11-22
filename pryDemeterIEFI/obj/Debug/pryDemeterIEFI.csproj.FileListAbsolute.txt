@@ -1,0 +1,37 @@
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.exe.config
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmAgregarCliente.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmBusqueda.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesActividad.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesBarrio.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClienteSlado.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesTotal.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmConsultaUnCliente.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmPrincipal.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.Properties.Resources.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Proyectos\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.pdb
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.exe.config
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.exe
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\bin\Debug\pryDemeterIEFI.pdb
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmAgregarCliente.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmBusqueda.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesActividad.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesBarrio.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClienteSlado.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmClientesTotal.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmConsultaUnCliente.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.frmPrincipal.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.exe
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.pdb
+C:\Users\Gustavo\Desktop\pryDemeterIEFI\obj\Debug\pryDemeterIEFI.csproj.ResolveComReference.cache
